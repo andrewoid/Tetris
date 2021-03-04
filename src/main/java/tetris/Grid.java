@@ -14,8 +14,8 @@ public class Grid {
     private final Color lightBlue = new Color(74, 180, 255);
     private final Color lavender = new Color(183, 152, 250);
     private final Color babyPink = new Color(241, 207, 255);
-    private final Color background = new Color(7, 11, 59);
-    private final Color border = new Color(1, 12, 138);
+    private final Color background = Color.GRAY;
+    private final Color border = Color.ORANGE;
 
     private final Color[] colorArray = {babyPink, mint, lightBlue, sunset, peach,
             babyYellow, teal, lavender, skyBlue, babyBlue};
